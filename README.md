@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-#  👀 I’m interested in becoming a developer
-Learning journey: (last update - 09/Oct/2024) 
-<img align="right" src="Img/xxxxxxxxxxxxx.png" width="100">
-- [x] ~~Git and Git-Hub~~ 
-- [x] ~~JavaScipt basic~~
-- [x] ~~Java basic~~
-- [x] ~~Java advanced~~
-- [x] ~~SQL~~
-- [x] ~~Spring Boot~~ 
-- [ ] **React**
-- [ ] Node
-- [ ] TypeScript
-- [ ] JavaScript advanced
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simocu3&label=Profile%20views&color=0e75b6&style=flat" alt="simocu3" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simocu3" alt="simocu3" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Framework, Java**
 
